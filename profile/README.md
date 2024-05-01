@@ -1,3 +1,3 @@
 <a href="#">
-<img src="https://takshalabs.in/plore.png" width="100%" alt="">
+<img src="https://takshalabs.in/plore-ai.png" width="100%" alt="">
 </a>
